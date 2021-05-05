@@ -1,0 +1,25 @@
+{
+  "name": "portfolio_next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "static": "next export",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootswatch": "^4.6.0",
+    "classnames": "^2.2.6",
+    "next": "^10.0.8",
+    "nodemailer": "^6.5.0",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-loading-skeleton": "^2.2.0"
+  }
+}
